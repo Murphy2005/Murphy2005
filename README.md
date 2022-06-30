@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me on https://wa.me/message/H7WRB6KG5TJEB1
 
 <!---
 Murphy2005/Murphy2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
